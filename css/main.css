@@ -1,0 +1,23 @@
+.grey{
+    color:#A9A9A9;
+}
+.gold{
+    color:#FFD700;
+}
+.pointer {cursor: pointer;}
+div.comment:hover{
+    color:#4CAF50;
+    text-decoration: underline;
+}
+.hide{
+    display: none;
+}
+.show{
+    display: block;
+}
+label{
+    width: 200px;
+}
+span.required{
+    color: red;
+}
